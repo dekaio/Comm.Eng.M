@@ -20,3 +20,4 @@ https://www.ei.tum.de/msce/academic-program/msce-curriculum-start-in-winter-seme
 * Data Structures and Algorithms in C and C++ (https://github.com/dekaio/Datastructures-and-Algorithms)
 * Machine Learning in Python (https://github.com/dekaio/Machine-learning)
 ### Communications Engineering Experiments
+* [*Speech to text convertor- a comparison of different algorithms*](https://github.com/dekaio/speech-to-text)
